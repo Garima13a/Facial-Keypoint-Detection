@@ -73,3 +73,7 @@ jupyter notebook
 ```
 
 3. Once you open any of the project notebooks, make sure you are in the correct `cv-nd` environment by clicking `Kernel > Change Kernel > cv-nd`. 
+
+LinkedIn: https://www.linkedin.com/in/garima-nishad-9b8385134/
+
+Follow me on Twitter: https://twitter.com/garima__nishad
